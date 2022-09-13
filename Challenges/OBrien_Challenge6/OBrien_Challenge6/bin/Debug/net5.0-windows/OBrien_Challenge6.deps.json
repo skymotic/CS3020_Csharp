@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OBrien_Challenge6/1.0.0": {
+        "runtime": {
+          "OBrien_Challenge6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OBrien_Challenge6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

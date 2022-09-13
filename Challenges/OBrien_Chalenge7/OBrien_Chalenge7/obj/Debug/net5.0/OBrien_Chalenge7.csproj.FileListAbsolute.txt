@@ -1,0 +1,16 @@
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\bin\Debug\net5.0\OBrien_Chalenge7.exe
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\bin\Debug\net5.0\OBrien_Chalenge7.deps.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\bin\Debug\net5.0\OBrien_Chalenge7.runtimeconfig.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\bin\Debug\net5.0\OBrien_Chalenge7.runtimeconfig.dev.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\bin\Debug\net5.0\OBrien_Chalenge7.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\bin\Debug\net5.0\ref\OBrien_Chalenge7.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\bin\Debug\net5.0\OBrien_Chalenge7.pdb
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\obj\Debug\net5.0\OBrien_Chalenge7.csproj.AssemblyReference.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\obj\Debug\net5.0\OBrien_Chalenge7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\obj\Debug\net5.0\OBrien_Chalenge7.AssemblyInfoInputs.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\obj\Debug\net5.0\OBrien_Chalenge7.AssemblyInfo.cs
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\obj\Debug\net5.0\OBrien_Chalenge7.csproj.CoreCompileInputs.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\obj\Debug\net5.0\OBrien_Chalenge7.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\obj\Debug\net5.0\ref\OBrien_Chalenge7.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\obj\Debug\net5.0\OBrien_Chalenge7.pdb
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\Challenges\OBrien_Chalenge7\OBrien_Chalenge7\obj\Debug\net5.0\OBrien_Chalenge7.genruntimeconfig.cache

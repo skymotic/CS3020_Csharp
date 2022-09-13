@@ -1,0 +1,32 @@
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.exe
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.deps.json
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.runtimeconfig.json
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.runtimeconfig.dev.json
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.dll
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\bin\Debug\net5.0\ref\EventExampleV2.dll
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.pdb
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.AssemblyInfo.cs
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.dll
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\obj\Debug\net5.0\ref\EventExampleV2.dll
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.pdb
+D:\VisualStudioProjects\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.genruntimeconfig.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.exe
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.deps.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.runtimeconfig.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.runtimeconfig.dev.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\bin\Debug\net5.0\ref\EventExampleV2.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\bin\Debug\net5.0\EventExampleV2.pdb
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.csproj.AssemblyReference.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.AssemblyInfoInputs.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.AssemblyInfo.cs
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.csproj.CoreCompileInputs.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\obj\Debug\net5.0\ref\EventExampleV2.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.pdb
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\EventExampleV2\EventExampleV2\obj\Debug\net5.0\EventExampleV2.genruntimeconfig.cache

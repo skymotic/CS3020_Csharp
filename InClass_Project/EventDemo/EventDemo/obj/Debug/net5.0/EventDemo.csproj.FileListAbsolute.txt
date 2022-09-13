@@ -1,0 +1,16 @@
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\bin\Debug\net5.0\EventDemo.exe
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\bin\Debug\net5.0\EventDemo.deps.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\bin\Debug\net5.0\EventDemo.runtimeconfig.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\bin\Debug\net5.0\EventDemo.runtimeconfig.dev.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\bin\Debug\net5.0\EventDemo.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\bin\Debug\net5.0\ref\EventDemo.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\bin\Debug\net5.0\EventDemo.pdb
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\obj\Debug\net5.0\EventDemo.csproj.AssemblyReference.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\obj\Debug\net5.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\obj\Debug\net5.0\EventDemo.AssemblyInfoInputs.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\obj\Debug\net5.0\EventDemo.AssemblyInfo.cs
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\obj\Debug\net5.0\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\obj\Debug\net5.0\EventDemo.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\obj\Debug\net5.0\ref\EventDemo.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\obj\Debug\net5.0\EventDemo.pdb
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\WindowForms\EventDemo\EventDemo\obj\Debug\net5.0\EventDemo.genruntimeconfig.cache

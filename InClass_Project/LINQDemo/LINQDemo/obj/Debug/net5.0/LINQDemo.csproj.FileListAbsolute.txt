@@ -1,0 +1,31 @@
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.exe
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.deps.json
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.json
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.dev.json
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.dll
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\bin\Debug\net5.0\ref\LINQDemo.dll
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.pdb
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfoInputs.cache
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfo.cs
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.csproj.CoreCompileInputs.cache
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.dll
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\obj\Debug\net5.0\ref\LINQDemo.dll
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.pdb
+C:\Users\lobr2\source\repos\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.genruntimeconfig.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.exe
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.deps.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.dev.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\bin\Debug\net5.0\ref\LINQDemo.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.pdb
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.csproj.AssemblyReference.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfoInputs.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfo.cs
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.csproj.CoreCompileInputs.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\obj\Debug\net5.0\ref\LINQDemo.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.pdb
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.genruntimeconfig.cache

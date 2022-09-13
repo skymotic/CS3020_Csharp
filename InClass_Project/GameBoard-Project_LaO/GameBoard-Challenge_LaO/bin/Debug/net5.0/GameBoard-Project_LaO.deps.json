@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GameBoard-Project_LaO/1.0.0": {
+        "runtime": {
+          "GameBoard-Project_LaO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameBoard-Project_LaO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

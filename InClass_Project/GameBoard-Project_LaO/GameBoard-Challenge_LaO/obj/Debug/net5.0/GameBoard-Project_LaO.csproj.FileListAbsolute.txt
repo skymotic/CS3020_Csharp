@@ -1,0 +1,16 @@
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\bin\Debug\net5.0\GameBoard-Project_LaO.exe
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\bin\Debug\net5.0\GameBoard-Project_LaO.deps.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\bin\Debug\net5.0\GameBoard-Project_LaO.runtimeconfig.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\bin\Debug\net5.0\GameBoard-Project_LaO.runtimeconfig.dev.json
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\bin\Debug\net5.0\GameBoard-Project_LaO.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\bin\Debug\net5.0\ref\GameBoard-Project_LaO.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\bin\Debug\net5.0\GameBoard-Project_LaO.pdb
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\obj\Debug\net5.0\GameBoard-Project_LaO.csproj.AssemblyReference.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\obj\Debug\net5.0\GameBoard-Project_LaO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\obj\Debug\net5.0\GameBoard-Project_LaO.AssemblyInfoInputs.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\obj\Debug\net5.0\GameBoard-Project_LaO.AssemblyInfo.cs
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\obj\Debug\net5.0\GameBoard-Project_LaO.csproj.CoreCompileInputs.cache
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\obj\Debug\net5.0\GameBoard-Project_LaO.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\obj\Debug\net5.0\ref\GameBoard-Project_LaO.dll
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\obj\Debug\net5.0\GameBoard-Project_LaO.pdb
+C:\Users\lobr2\OneDrive - University of Colorado Colorado Springs\Fall_2021\C#\InClass_Project\GameBoard-Project_LaO\GameBoard-Project_LaO\obj\Debug\net5.0\GameBoard-Project_LaO.genruntimeconfig.cache
